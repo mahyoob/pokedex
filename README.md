@@ -28,7 +28,7 @@ As such, here are the 4 main learning goals to keep in mind at all times:
 3. Understand the business context of your work (i.e. customer centricity)
 4. Learn how to communicate professionally in emails, meetings and presentations
 
-## Where to Ask For Help
+## Where To Go For Help
 
 You are always encouraged to figure stuff out yourself first. Have you gained mastery over the concepts in order to solve the challenge at hand? That said, this doesn't mean you have to struggle all by yourself.
 
@@ -36,11 +36,3 @@ You are always encouraged to figure stuff out yourself first. Have you gained ma
 - Your buddy (or colleagues for that matter). Everyone is here to help, make use of it
 - The [tap-cohort-1](https://kiitosworkspace.slack.com/archives/G01MQJUSMHT) Slack channel. By sharing your challenge, everyone can learn from each other!
 - The [Program Director](https://kiitosworkspace.slack.com/archives/D01DLR1S9GE) is available for any urgent questions you might have
-
-<br>
-
-![Create Commons License](./assets/cc.png)
-<br>
-<b>Attribution-NonCommercial-NoDerivs</b>
-<br>
-<b>CC BY-NC-ND</b>
