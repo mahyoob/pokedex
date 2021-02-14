@@ -13,7 +13,7 @@ Here's how to make best use of it:
 1. Each week starts on Sunday. The Program Director will facilitate a **Week Planning** in order to share the topics to study for the week
 2. **Sync** (or clone if it's your first time) with this repository to get the latest update
 3. Find and read the **Workbook** for that week
-4. **Complete** your coursework and **submit** all the required files in a pull request (in a personal branch).
+4. **Complete** your coursework and **submit** all the required files in a pull request (in a personal branch)
 5. **Assign** your mentor as a reviewer to your pull request
 6. Do a little victory dance because you did it!
 
@@ -32,16 +32,15 @@ As such, here are the 4 main learning goals to keep in mind at all times:
 
 You are always encouraged to figure stuff out yourself first. Have you gained mastery over the concepts in order to solve the challenge at hand? That said, this doesn't mean you have to struggle all by yourself.
 
-- [Google](https://www.google.com/) is your friend (and so are [StackOverflow](https://stackoverflow.com/), [Reddit](http://reddit.com/) and [YouTube](https://www.youtube.com/)).
-- Your buddy (or colleagues for that matter). Everyone is here to help, make use of it.
+- [Google](https://www.google.com/) is your friend (and so are [StackOverflow](https://stackoverflow.com/), [Reddit](http://reddit.com/) and [YouTube](https://www.youtube.com/))
+- Your buddy (or colleagues for that matter). Everyone is here to help, make use of it
 - The [tap-cohort-1](https://kiitosworkspace.slack.com/archives/G01MQJUSMHT) Slack channel. By sharing your challenge, everyone can learn from each other!
 - The [Program Director](https://kiitosworkspace.slack.com/archives/D01DLR1S9GE) is available for any urgent questions you might have
 
-<br/>
-<br/>
+<br>
 
 ![Create Commons License](./assets/cc.png)
-<br/>
+<br>
 <b>Attribution-NonCommercial-NoDerivs</b>
-<br/>
+<br>
 <b>CC BY-NC-ND</b>
