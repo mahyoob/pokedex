@@ -1,0 +1,141 @@
+#main-title {
+  font-size: 20px;
+  margin: 20px 0px;
+  padding: auto;
+}
+#panel {
+  height: 200px;
+}
+#logo {
+  height: 50px;
+  margin-top: 5px;
+}
+#search-label {
+  font-size: 15px;
+  margin-top: 5px;
+  padding-right: 0;
+  padding-left: 45px;
+}
+#search-input {
+  height: 20px;
+  margin-top: 19px;
+  width: 50%;
+  margin-right: 5px;
+}
+#search {
+  margin-right: 0;
+  padding-left: 50px;
+}
+#pok-card {
+  border: 2px solid rgb(228, 226, 226);
+  border-radius: 5%;
+
+  margin: 10px 10px;
+  padding: 0;
+}
+#pok-name {
+  margin-bottom: 0;
+  height: 30px;
+  padding-top: 5px;
+  font-weight: 500;
+}
+#pok-img {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+#pok-icon-container {
+  margin-bottom: 0;
+}
+
+.container1 {
+  width: 70%;
+  margin-left: 18%;
+}
+.material-icons:hover {
+  cursor: pointer;
+}
+
+.popup {
+  display: none;
+  width: 70%;
+  height: 700px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 9;
+  background: rgb(210, 249, 250);
+  border-radius: 3%;
+  padding: 2%;
+  border: 1px solid #ccc;
+}
+
+#back-col {
+  padding: 0;
+  overflow: hidden;
+}
+.counters-seen {
+  border-right: 3px solid rgb(168, 168, 168);
+}
+.counters {
+  font-size: 20px;
+}
+.img {
+  cursor: pointer;
+}
+
+.page-footer {
+  padding-top: 0;
+  box-sizing: border-box;
+  height: auto;
+}
+.stats {
+  font-size: 15px;
+  font-weight: 700;
+}
+.stats-bar {
+  border-radius: 6px;
+}
+.stats-title {
+  margin-bottom: 20px;
+  font-size: 22px;
+  font-weight: 500;
+}
+.type1 {
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 15px;
+  font-weight: 700;
+  color: green;
+  border: 1px solid green;
+  margin-right: 5px;
+  padding-right: 10px;
+  height: 30px;
+  width: 60%;
+  border-radius: 5px;
+}
+.type2 {
+  font-size: 15px;
+  font-weight: 700;
+  color: rgb(128, 0, 79);
+  border: 1px solid rgb(128, 0, 117);
+  height: 30px;
+  width: 60%;
+  border-radius: 5px;
+}
+.type-title {
+  margin-bottom: 10px;
+}
+.pok-title {
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 0;
+  width: 50%;
+  margin-top: 0;
+}
+.pusher {
+  min-height: 530px;
+}
+#close-button-row {
+  margin-bottom: 0;
+}

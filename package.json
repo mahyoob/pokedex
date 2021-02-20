@@ -1,0 +1,19 @@
+{
+  "name": "tap-cohort-1",
+  "description": "![TAP Header](./assets/tap.png)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mahyoob@bitbucket.org/kiitos/tap-cohort-1.git"
+  },
+  "dependencies": {
+    "materialize-css": "^1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/kiitos/tap-cohort-1#readme"
+}
